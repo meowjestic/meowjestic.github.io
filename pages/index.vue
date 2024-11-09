@@ -1,9 +1,9 @@
 <template>
 
-    <header class="sticky top-0 inset-x-0 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full text-sm">
+    <!-- <header class="sticky top-0 inset-x-0 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full text-sm">
         <nav
             class="mt-4 relative max-w-3xl w-full bg-white border border-gray-200 rounded-[2rem] mx-2 py-2.5 md:flex md:items-center md:justify-between md:py-0 md:px-4 md:mx-auto  ">
-            <!-- <div class="px-4 md:px-0 flex justify-between items-center">
+            <div class="px-4 md:px-0 flex justify-between items-center">
                 <div class="md:hidden">
                     <button type="button"
                         class="hs-collapse-toggle flex justify-center items-center size-6 border border-gray-200 text-gray-500 rounded-full hover:bg-gray-200 focus:outline-none focus:bg-gray-200"
@@ -25,7 +25,7 @@
                         </svg>
                     </button>
                 </div>
-            </div> -->
+            </div>
 
             <div id="hs-navbar-header-floating"
                 class="block hs-collapse overflow-hidden transition-all duration-300 basis-full grow"
@@ -44,7 +44,7 @@
                 </div>
             </div>
         </nav>
-    </header>
+    </header> -->
     <!-- ========== END HEADER ========== -->
 
     <!-- ========== MAIN CONTENT ========== -->
@@ -201,9 +201,8 @@
                             </ul>
                         </div>
 
-                        <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between">
+                        <div class="mt-4 flex gap-4 text-gray-500 items-center flex-col md:flex-row justify-between">
                             <div class="flex gap-4 items-center justify-start flex-1">
-                                Tech Stack :
                                 <!-- laravel -->
 
                                 <div class="hs-tooltip flex items-center">
@@ -317,9 +316,8 @@
                             </ul>
                         </div>
 
-                        <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between">
+                        <div class="mt-4 flex gap-4 text-gray-500 items-center justify-bet flex-col md:flex-rowween">
                             <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between">
-                                Tech Stack :
                                 <!-- laravel -->
 
                                 <div class="hs-tooltip flex items-center">
@@ -451,9 +449,8 @@
                             </ul>
                         </div>
 
-                        <div class="mt-4 flex gap-4 text-gray-500 items-center">
+                        <div class="mt-4 flex gap-4 text-gray-500 items-center flex-col md:flex-row">
                             <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between">
-                                Tech Stack :
                                 <!-- laravel -->
 
                                 <div class="hs-tooltip flex items-center">
@@ -580,9 +577,8 @@
                             </ul>
                         </div>
 
-                        <div class="mt-4 flex gap-4 text-gray-500 items-center">
+                        <div class="mt-4 flex gap-4 text-gray-500 items-center flex-col md:flex-row">
                             <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between">
-                                Tech Stack :
                                 <!-- laravel -->
 
                                 <div class="hs-tooltip flex items-center">
@@ -696,9 +692,8 @@
                             </ul>
                         </div>
 
-                        <div class="mt-4 flex gap-4 text-gray-500 items-center">
+                        <div class="mt-4 flex gap-4 text-gray-500 items-center flex-col md:flex-row">
                             <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between">
-                                Tech Stack :
                                 <!-- laravel -->
 
                                 <div class="hs-tooltip flex items-center">
