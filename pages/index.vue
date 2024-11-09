@@ -316,7 +316,7 @@
                             </ul>
                         </div>
 
-                        <div class="mt-4 flex gap-4 text-gray-500 items-center justify-bet flex-col md:flex-rowween">
+                        <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between flex-col md:flex-row">
                             <div class="mt-4 flex gap-4 text-gray-500 items-center justify-between">
                                 <!-- laravel -->
 
@@ -1298,7 +1298,7 @@
             <div class="flex flex-wrap justify-between items-center gap-2">
                 <div>
                     <p class="text-xs text-gray-600 ">
-                        © 2024 Preline Labs.
+                        © 2024 Aldo Doohan with Preline UI.
                     </p>
                 </div>
                 <!-- End Col -->
