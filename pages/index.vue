@@ -876,16 +876,16 @@
 
                             <ul class="list-disc ms-6 mt-3 space-y-1.5">
                                 <li class="ps-1 text-sm text-gray-600 ">
-                                    Maintenance of key client applications, such as Evatrack logistics system,
+                                    Maintain key client applications, such as Evatrack logistics system,
                                     Vendorbeli marketplace, which facilitates international product purchases and many
                                     other apps.
                                 </li>
                                 <li class="ps-1 text-sm text-gray-600 ">
-                                    Partnered with a diverse team of developers, designers, and stakeholders to ensure
+                                    Collaborate with a diverse team of developers, designers, and stakeholders to ensure
                                     the delivery of high-quality, user-centric solutions.
                                 </li>
                                 <li class="ps-1 text-sm text-gray-600 ">
-                                    Applied Agile (SCRUM) practices to optimize workflow efficiency, enhance team
+                                    Apply Agile (SCRUM) practices to optimize workflow efficiency, enhance team
                                     collaboration, and ensure timely project delivery.
                                 </li>
                             </ul>
@@ -1047,14 +1047,14 @@
                             </p>
                             <ul class="list-disc ms-6 mt-3 space-y-1.5">
                                 <li class="ps-1 text-sm text-gray-600 ">
-                                    Collaborate closely with IT Support to understand client's need and translate it to
+                                    Collaborated closely with IT Support to understand client's need and translate it to
                                     improve our products.
                                 </li>
                                 <li class="ps-1 text-sm text-gray-600 ">
                                     Bug fixing and some improvements to the products.
                                 </li>
                                 <li class="ps-1 text-sm text-gray-600 ">
-                                    Develop new features such as creating a premium feature for Rapormerdeka.
+                                    Developed new features such as created a premium feature for Rapormerdeka.
                                 </li>
                             </ul>
 
